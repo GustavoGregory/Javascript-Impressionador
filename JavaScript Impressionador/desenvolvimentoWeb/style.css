@@ -1,0 +1,19 @@
+h1 {
+    color: #ffffff;background-color: rgb(26, 35, 25);
+}
+img {   
+    margin: 5%;
+}
+p {
+    color: #ffffff;background-color: rgb(98, 242, 84);
+}
+body{
+    background-color: aquamarine;
+}
+section{
+    background-color: aqua;
+}
+
+.explainer{
+    background-color: yellowgreen;
+}
